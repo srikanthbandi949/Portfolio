@@ -1,4 +1,4 @@
-### Details
+### <u>Details</u>
 
 
 `Srikanth Bandi`
@@ -6,12 +6,12 @@
 
 ### Programming Languages
 
-`
+
 **C#**</br>
 **Python**</br>
 **C**</br>
 **HTML**</br></br>
-`
+
 ### FrameWorks
 
 **Entity FrameWork**</br>
