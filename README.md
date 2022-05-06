@@ -1,8 +1,7 @@
-<u>
-  ### Details
-</u>
+### Details
 
-Srikanth Bandi
+
+`Srikanth Bandi`
 Ps No. : 99007538
 
 ### Programming Languages
