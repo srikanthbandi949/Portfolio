@@ -1,21 +1,21 @@
-## Details
+### Details
 
 Srikanth Bandi
 Ps No. : 99007538
 
-## Programming Languages
+### Programming Languages
 
-**C#**
-**Python**
-**C**
-**HTML**
+**C#**</br>
+**Python**</br>
+**C**</br>
+**HTML**</br></br>
 
-## FrameWorks
+### FrameWorks
 
-**Entity FrameWork**
-**ADO.NET**
+**Entity FrameWork**</br>
+**ADO.NET**</br>
 **WebApi**
 
-## Projects
+### Projects
 
 ![C-Project](https://github.com/srikanthbandi949/M1_Cricket_Game.git)
